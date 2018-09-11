@@ -1,4 +1,4 @@
-# fMRI EEG Project
+# fMRI Image Project
 
 ## Introduction
 
